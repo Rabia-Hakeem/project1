@@ -7,6 +7,6 @@ _This text is italic_\
 > quotation
 >>> QUOTATION\
 >>> ```IDK```
-- ONE\
-- TWO\
-- THREE\
+- ONE
+- TWO
+- THREE
