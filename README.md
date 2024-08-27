@@ -8,5 +8,5 @@ _This text is italic_\
 >>> QUOTATION\
 >>> ```IDK```
 - ONE
-- TWO
-- THREE
+ * TWO
+  + THREE
